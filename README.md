@@ -1,2 +1,2 @@
-# ximena.peralta.github.io
+# http://TheTruth.github.io
 Our philosophical website
